@@ -2,7 +2,7 @@
 
 A simple game based on my friend and her pug.
 
-![pug attack screenshot](screenshot.JPG | width=100)
+<img src="screenshot.JPG"  width="300" height="300">
 
 ## Motivation
 
