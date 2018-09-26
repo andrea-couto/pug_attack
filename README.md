@@ -2,7 +2,7 @@
 
 A simple game based on my friend and her pug.
 
-![pug attack screenshot](screenshot.JPG)
+![pug attack screenshot](screenshot.JPG | width=100)
 
 ## Motivation
 
@@ -12,5 +12,5 @@ I am taking a rust vs go class and wanted to take a project based approach to le
 
 You need to have Rust and Cargo installed. Then run
 
-cargo build
+cargo build<br>
 cargo run
